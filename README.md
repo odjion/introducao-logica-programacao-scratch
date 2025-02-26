@@ -44,6 +44,7 @@ Os projetos podem incluir:
 ✅ **Implementações em diferentes linguagens (Scratch, Python, C, etc.)**
 ✅ **Aplicações práticas de estruturas de decisão e repetição**
 ✅ **Exercícios para aprimorar o pensamento computacional**
+
 -----------------------------------------------------------------------------------------------------------------------------------
 💡 *Objetivo:* *Criar um espaço colaborativo para aprendizado e troca de experiências sobre lógica de programação. Bem como, explorar conceitos fundamentais de programação, como algoritmos, estruturas de controle, variáveis, funções e boas práticas de desenvolvimento.*
 
