@@ -29,7 +29,9 @@ Cada atividade ou projeto estará armazenado em uma pasta específica, nomeada d
 - Utilize blocos de controle **SE-SENÃO** para alternar entre as luzes do semáforo.  
 - Explore os recursos do Scratch e adicione sua criatividade ao código! 🎨  
 
-✅ **Entrega:** Compartilhe no fórum o código desenvolvido ou sua tentativa, mesmo que não tenha finalizado. O compartilhamento pode ser feito:
+✅ **Entrega:**
+ 
+Compartilhe no fórum o código desenvolvido ou sua tentativa, mesmo que não tenha finalizado. O compartilhamento pode ser feito:
 1. Pelo **link do código**, usando a opção "Compartilhar" no menu superior do Scratch.  
 2. Através de um **print** da tela do projeto.  
 
