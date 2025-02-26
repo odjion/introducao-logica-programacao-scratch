@@ -39,18 +39,17 @@ Cada atividade ou projeto estará armazenado em uma pasta específica, nomeada d
 
 
 Os projetos podem incluir:
-✅ Resolução de problemas algorítmicos
-✅ Implementações em diferentes linguagens (Scratch, Python, C, etc.)
-✅ Aplicações práticas de estruturas de decisão e repetição
-✅ Exercícios para aprimorar o pensamento computacional
+✅ **Resolução de problemas algorítmicos**
+✅ **Implementações em diferentes linguagens (Scratch, Python, C, etc.)**
+✅ **Aplicações práticas de estruturas de decisão e repetição**
+✅ **Exercícios para aprimorar o pensamento computacional**
 -----------------------------------------------------------------------------------------------------------------------------------
-💡 *Objetivo:* Criar um espaço colaborativo para aprendizado e troca de experiências sobre lógica de programação. Bem como, explorar conceitos fundamentais de programação, como algoritmos, estruturas de controle, variáveis, funções e boas práticas de desenvolvimento.
+💡 *Objetivo:* *Criar um espaço colaborativo para aprendizado e troca de experiências sobre lógica de programação. Bem como, explorar conceitos fundamentais de programação, como algoritmos, estruturas de controle, variáveis, funções e boas práticas de desenvolvimento.*
 
-📂 Organização:
-Cada projeto estará organizado em pastas nomeadas conforme o tema ou exercício abordado.
+📂 *Organização: *Cada projeto estará organizado em pastas nomeadas conforme o tema ou exercício abordado.*
 
 -----------------------------------------------------------------------------------------------------------------------------------
-💡 **Contribua!**  Se desejar, envie sugestões e melhorias para o repositório. Vamos aprender juntos! 🚀
+💡 *Contribua!*  *Se desejar, envie sugestões e melhorias para o repositório. Vamos aprender juntos! 🚀*
 
 
 
