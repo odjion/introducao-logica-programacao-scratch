@@ -1,4 +1,5 @@
-# 📚 Repositório de Projetos - LPT 1 (Lógica de Programação e Técnicas 1)
+# 📚 Repositório de Projetos - LPT 1
+# (Lógica de Programação e Técnicas 1)
 
 Bem-vindo ao repositório de projetos da disciplina **LPT 1**!
 Aqui você encontrará atividades, desafios e exemplos práticos para desenvolver e aprimorar sua lógica de programação.
