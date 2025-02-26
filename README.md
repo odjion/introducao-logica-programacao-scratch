@@ -10,7 +10,7 @@ Este repositório tem como propósito reunir projetos desenvolvidos ao longo da 
 - Desenvolvimento de pequenos programas em diversas linguagens 💻
 - Boas práticas e criatividade na resolução de problemas 🎨
 
-## 🗂📂 Organização
+## 🗂 Organização
 Cada atividade ou projeto estará armazenado em uma pasta específica, nomeada de acordo com o tema abordado.
 
 ---
@@ -38,8 +38,6 @@ Compartilhe no fórum o código desenvolvido ou sua tentativa, mesmo que não te
 ---
 
 💡 *Objetivo:* *Criar um espaço colaborativo para aprendizado e troca de experiências sobre lógica de programação. Bem como, explorar conceitos fundamentais de programação, como algoritmos, estruturas de controle, variáveis, funções e boas práticas de desenvolvimento.*
-
-📂 *Organização:* *Cada projeto estará organizado em pastas nomeadas conforme o tema ou exercício abordado.*
 
 💡 *Contribua!*  *Se desejar, envie sugestões e melhorias para o repositório. Vamos aprender juntos! 🚀*
 
